@@ -1,7 +1,7 @@
 
 # Nonopichy 
 
-- Java: [*Bukkit (NMS, SkriptAddon), Application (Swing/JFrame), Server (Sockets TCP / UDP)*]
+- Java: [*Bukkit (NMS, Skript, SkriptAddon), Application (Swing/JFrame), Server (Sockets TCP / UDP)*]
 - Front-End: [*JavaScript, Html, Css*]
 - Back-End: [*MySQL, PHP*]
 
