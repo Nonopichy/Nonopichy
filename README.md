@@ -1,5 +1,14 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonopichy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <a href="https://beacons.ai/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nonopichy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <br>
+    <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonopichy&layout=compact&langs_count=16&theme=dark"/>
+</div>
+  
+<div style="display: flex"><br>
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+</div>
 <!--
 **Nonopichy/Nonopichy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
