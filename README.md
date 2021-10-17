@@ -1,8 +1,8 @@
 <div>
   <a href="https://beacons.ai/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nonopichy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <br>
-    <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonopichy&layout=compact&langs_count=16&theme=dark"/>
+  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonopichy&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <div style="display: flex"><br>
