@@ -21,8 +21,25 @@ Me profissionalizando como desenvolvedor Software & Web!
   
 </div>
 
+<br />
+
+##
+
+<br />
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nonopichy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonopichy&layout=normal&langs_count=16&theme=dark"/>
+</div>
+
+
+##
+
+
+
 <div>
 <a href="https://discord.gg/Y4XhpCb5mr" target="_blank">
-<img align='right' src="https://img.shields.io/badge/Discord-%230077B5.svg?&style=flat-square&logo=discord&logoColor=white" alt="Discord">
+<img align='left' src="https://img.shields.io/badge/Discord-%230077B5.svg?&style=flat-square&logo=discord&logoColor=white" alt="Discord">
+<a href="https://twitter.com/nonopichy" target="_blank">
+<img align='left' src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 <div/>
-
