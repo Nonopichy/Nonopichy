@@ -38,7 +38,7 @@ Me profissionalizando como desenvolvedor Software & Web!
 
 
 <div>
-<a href="https://discord.gg/Y4XhpCb5mr" target="_blank">
+<a href="https://discord.com/users/870765095179939960" target="_blank">
 <img align='left' src="https://img.shields.io/badge/Discord-%230077B5.svg?&style=flat-square&logo=discord&logoColor=white" alt="Discord">
 <a href="https://twitter.com/nonopichy" target="_blank">
 <img align='left' src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
