@@ -5,7 +5,7 @@
 # Nonopichy's
 ### ☕ Developer **Java**
 
-Me profisionalizando como desenvolvedor de Software & Web!
+Me profissionalizando como desenvolvedor de Software & Web!
 </div>
 
 
