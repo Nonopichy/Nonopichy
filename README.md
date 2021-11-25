@@ -9,6 +9,7 @@ Me profissionalizando como desenvolvedor Software & Web!
 </div>
 
 <div style="display: flex"><br>
+  <a href="https://discord.com/users/870765095179939960" target="_blank">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
@@ -24,6 +25,7 @@ Me profissionalizando como desenvolvedor Software & Web!
 <br/>
 
 <div>
+  <a href="https://discord.com/users/870765095179939960" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nonopichy&show_icons=true&theme=dark&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonopichy&layout=compact&langs_count=16&theme=dark"/>
 </div>
