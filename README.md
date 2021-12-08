@@ -25,17 +25,13 @@
   <img alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     
-  <br>
-  
-  <img align="left" src='https://c.tenor.com/HXcF3phTDOoAAAAC/anime-headbang-left-anime-girl-rave.gif' width="250px" height="20%">  
-  <img align="right" src='https://c.tenor.com/5n74_gsvK3MAAAAC/anime-headbang-right-anime-headbang.gif' width="250px" height="20%"> 
-  
-## 🗺️ South America - Brazil 15 years.
-## 📚 Student High school / SENAC.
-## 📈 Trend to create new projects.
-## 📪 Working with private projects.
-    
+  <br>  
     
 </p>
+    
+🗺️ South America - Brazil 15 years.
+📚 Student High school / SENAC.
+📈 Trend to create new projects.
+📪 Working with private projects.
     
        
