@@ -1,35 +1,41 @@
-# ALPHA ALPHA ALPHA ALPHA ALPHA ALPHA ALPHA ALPHA
-<div>
-<a href="https://pt.namemc.com/profile/NonopichyBR.1" target="_blank">
-<img align='left' src='https://c.tenor.com/f7P9Hg-p_uoAAAAi/minecraft-grass.gif' width='20%'>
 
-# Nonopichy's
-## ☕ Developer **Java**
+<p align="center">
+  <img src='https://i.pinimg.com/originals/7b/28/7d/7b287dcd4bd134b6dd1c9f5961b5808c.gif'>  
   
-<a name="learning-next"></a>
+  <br>
 
-<div>
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FF0000" alt="Java" title="JavaScript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;
-
-  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-&nbsp;
-  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-&nbsp;
-
-</div>
-
-  <br><br>
-
-<div>
+  <h1 align="center" >Nonopichy<h>
+    
+  <br>
+    
+  <a href="https://github.com/Nonopichy" target="_blank">
+  <img class="icon" src="https://img.shields.io/badge/Github-%230077B5.svg?&style=flat-square&logo=github&logoColor=white" alt="Discord">
   <a href="https://discord.com/users/870765095179939960" target="_blank">
-  <img align='left' src="https://img.shields.io/badge/Discord-%230077B5.svg?&style=flat-square&logo=discord&logoColor=white" alt="Discord">
+  <img class="icon" src="https://img.shields.io/badge/Discord-%230077B5.svg?&style=flat-square&logo=discord&logoColor=white" alt="Discord">
   <a href="https://twitter.com/nonopichy" target="_blank">
-  <img align='left' src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-<div/>
+  <img class="icon" src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="#" target="_blank">
+    
+  <br>
+    
+  <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+    
+  <br>
+  
+  <img align="left" src='https://c.tenor.com/HXcF3phTDOoAAAAC/anime-headbang-left-anime-girl-rave.gif' width="250px" height="20%">  
+  <img align="right" src='https://c.tenor.com/5n74_gsvK3MAAAAC/anime-headbang-right-anime-headbang.gif' width="250px" height="20%"> 
+  
+## 🗺️ South America - Brazil 15 years.
+## 📚 Student High school / SENAC.
+## 📈 Trend to create new projects.
+## 📪 Working with private projects.
+    
+    
+</p>
+    
+       
