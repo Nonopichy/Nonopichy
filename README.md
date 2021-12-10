@@ -46,5 +46,5 @@ A cada dia que passa eu busco aprimorar meu conhecimento na internet, não só c
 - ☕ Amo Panetone não Chocotone.
 - 🍃 Adoro viajar sempre que possível.
 - 🎞 Edito alguns vídeos nas horas vagas.
-- 📈 Tedência a criar alguns projetinhos.
+- 📈 Tendência a criar alguns projetinhos.
 - 💍 Casado? <3 Yunih.
