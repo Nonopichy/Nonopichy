@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src='https://i.pinimg.com/originals/7b/28/7d/7b287dcd4bd134b6dd1c9f5961b5808c.gif'>  
+  <a href="https://www.youtube.com/watch?v=g0rEs4Nwxmc" target="_blank"><img src="https://img.youtube.com/vi/g0rEs4Nwxmc/0.jpg" ></a>
   
   <br>
 
@@ -18,6 +17,7 @@
   <br>
     
   <img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
   <img alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
@@ -35,7 +35,7 @@
 ## Quem sou eu?
 Olá! Eu sou conhecido por Nonopichy ou para os mais intímos Nono.
 
-Tenho 15 anos, vivo atualmente no Brazil, amo programação como ela funciona, como pode ser aplicada no dia a dia, além disso adoro Minecraft! Onde programo usando a bukkit/spigot api, criando algoritimos, sistemos dentro desse joguinhos quadrado!
+Tenho 15 anos, vivo atualmente no Brazil, amo programação como ela funciona, como pode ser aplicada no dia a dia, além disso adoro Minecraft! Onde programo usando a bukkit/spigot api, criando algoritimos, sistemas dentro desse joguinhos quadrado!
 
 ## Carreira
 
