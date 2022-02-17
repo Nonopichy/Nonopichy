@@ -1,4 +1,6 @@
 ![2021-12-22](https://komarev.com/ghpvc/?username=nonopichy&color=brightgreen)
+[![2021-12-29](https://wakatime.com/badge/user/3c5f2b6e-fa3b-45e1-ae39-5dd5223f9a77.svg)](https://wakatime.com/@Nonopichy)
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=g0rEs4Nwxmc" target="_blank"><img src="https://img.youtube.com/vi/g0rEs4Nwxmc/0.jpg" ></a>
   
