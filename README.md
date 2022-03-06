@@ -38,7 +38,7 @@
 ## Quem sou eu?
 Olá! Eu sou conhecido por Nonopichy ou para os mais intímos Nono.
 
-Tenho 15 anos, vivo atualmente no Brazil, amo programação como ela funciona, como pode ser aplicada no dia a dia, além disso adoro Minecraft! Onde programo usando a bukkit/spigot api, criando algoritimos, sistemas dentro desse joguinhos quadrado!
+Tenho 15 anos, vivo atualmente no Brazil, amo programação como ela funciona, como pode ser aplicada no dia a dia, além disso adoro Minecraft! Onde programo usando a bukkit/spigot api, criando algoritimos, sistemas dentro desse joguinho quadrado!
 
 ## Carreira
 
