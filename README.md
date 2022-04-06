@@ -35,8 +35,6 @@
 ![](https://github.com/nonopichy/nonopichy/blob/main/header_.png)
 
 
-<br> 
-
 ## 🤔 Quem sou eu?
 Olá! Eu sou conhecido por Nonopichy ou para os mais intímos Nono.
 
