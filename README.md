@@ -1,7 +1,19 @@
+
 ![2021-12-22](https://komarev.com/ghpvc/?username=nonopichy&color=brightgreen)
 [![2021-12-29](https://wakatime.com/badge/user/3c5f2b6e-fa3b-45e1-ae39-5dd5223f9a77.svg)](https://wakatime.com/@Nonopichy)
 
-# Ohayo! Sou conhecido como [Nonopichy!](https://github.com/amandewatnitrr) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Ohayo! Watashi... [Nonopichy!](https://github.com/amandewatnitrr) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+
+
+<img align="right" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+
+ <img align="right" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> 
+<img align="right" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> 
+
+<img align="right" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="right" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="right" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+<img align="right" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
 <a href="https://twitter.com/nonopichy">
   <img align="left" alt="Nonopichy's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
@@ -15,10 +27,14 @@
 <a href="https://www.youtube.com/c/nonopichy">
   <img align="left" alt="Nonopichy's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
+
+
 <br><br>
+
 
 ![](https://github.com/nonopichy/nonopichy/blob/main/header_.png)
 
+<br> 
 
 ## 🤔 Quem sou eu?
 Olá! Eu sou conhecido por Nonopichy ou para os mais intímos Nono.
@@ -36,4 +52,8 @@ A cada dia que passa eu busco aprimorar meu conhecimento na internet, não só c
 - 🎞 Edito alguns vídeos nas horas vagas.
 - 📈 Tendência a criar alguns projetinhos.
 - 💍 Casado? <3 Talvez Yunih.
+
+<p align="center">
+<img src="https://github.com/nonopichy/nonopichy/blob/main/406ceaf8b409a4f3e1bacef2cd084592.gif" width="250px">
+</p>
 
