@@ -55,8 +55,8 @@ A cada dia que passa eu busco aprimorar meu conhecimento na internet, não só c
 #
 
 <div align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonopichy&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/?username=nonopichy&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonopichy&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=nonopichy&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
 
 
