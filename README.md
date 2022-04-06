@@ -34,10 +34,6 @@
 
 ![](https://github.com/nonopichy/nonopichy/blob/main/header_.png)
 
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonopichy&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=nonopichy&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
-</div>
 
 <br> 
 
@@ -58,6 +54,12 @@ A cada dia que passa eu busco aprimorar meu conhecimento na internet, não só c
 - 📈 Tendência a criar alguns projetinhos.
 - 💍 Casado? <3 Talvez Yunih.
 
+#
+
+<div align="center">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonopichy&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/?username=nonopichy&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+</div>
 
 
 
