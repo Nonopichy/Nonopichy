@@ -62,6 +62,18 @@ A cada dia que passa eu busco aprimorar meu conhecimento na internet, não só c
 <div align="center">
 
 <h2>🍨 https://nonopichy.github.io</h2>
-
+ <p>
+<a href="https://discord.gg/Ava64qCMTA">
+Rede Warrior
+</a>
+  -
+<a href="https://discord.gg/FN2kCZzCMK">
+Rede Nation
+</a>
+  -
+<a href="https://discord.gg/WFrsKKg47M">
+Omega Network
+</a>
+ </p>
 </div>
 
