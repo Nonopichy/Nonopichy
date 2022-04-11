@@ -50,7 +50,7 @@ A cada dia que passa eu busco aprimorar meu conhecimento na internet, não só c
 - 🍃 Gosto muito de jogar OSU.
 - 🎞 Edito alguns vídeos nas horas vagas.
 - 📈 Tendência a criar alguns projetinhos.
-- 💍 Casado? <3 Talvez Yunih.
+- 💍 Casado?
 
 #
 
