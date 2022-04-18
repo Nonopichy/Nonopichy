@@ -1,11 +1,11 @@
-
 ![2021-12-22](https://komarev.com/ghpvc/?username=nonopichy&color=brightgreen)
 [![2021-12-29](https://wakatime.com/badge/user/3c5f2b6e-fa3b-45e1-ae39-5dd5223f9a77.svg)](https://wakatime.com/@Nonopichy)
+<img align="right" alt="Visual Studio Code" src=
+     "https://user-images.githubusercontent.com/68911691/163861104-ab820399-4a87-44ef-ab98-8c885cd58c6c.png"/>
+
 
 # Ohayo! Watashi wa... [Nonopichy!](https://github.com/nonopichy) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
-
-<img align="right" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 
  <img align="right" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> 
 
@@ -75,4 +75,3 @@ Omega Network
 </a>
  </p>
 </div>
-
