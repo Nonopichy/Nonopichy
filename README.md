@@ -4,7 +4,7 @@
      "https://user-images.githubusercontent.com/68911691/163861104-ab820399-4a87-44ef-ab98-8c885cd58c6c.png"/>
 
 
-# Ohayo! Watashi wa... [Nonopichy!](https://github.com/nonopichy) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Ohayo! Watashi wa... [Nonopichy!](https://github.com/nonopichy) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px" height="25px">
 
 
  <img align="right" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> 
