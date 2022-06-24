@@ -23,7 +23,7 @@
 <a href="https://github.com/nonopichy">
   <img align="left" alt="Nonopichy's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/c/nonopichy">
+<a href="https://www.youtube.com/c/UChLlmMFsyD4FK5aVSvQQaeA">
   <img align="left" alt="Nonopichy's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 
