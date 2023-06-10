@@ -62,6 +62,6 @@ A cada dia que passa eu busco aprimorar meu conhecimento na internet, não só c
 
 <h2>🍨 https://nonopichy.github.io</h2>
  <p>
-Passei um tempo ser acessar essa CONTA
+Passei um tempo sem acessar essa CONTA
  </p>
 </div>
